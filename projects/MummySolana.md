@@ -9,7 +9,7 @@ category: nft
 status: live
 ---
 
-ChihuahuaSol an Exclusive NFTs Built on #Solana
+MummySolana an Exclusive NFTs Built on #Solana
 
 <b>Twitter</b>: https://twitter.com/MumsSolana </br>
 <b>NFT Marketplace</b>: https://mums.holaplex.com/#/ </br>
